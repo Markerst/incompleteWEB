@@ -1,0 +1,23 @@
+.music-player {
+    text-align: center;
+    margin-top: 50px;
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 18px;
+    cursor: pointer;
+}
+.taskbar {
+    background-color: #333;
+    padding: 10px;
+  }
+  
+  .icon {
+    width: 50px;
+    height: 50px;
+    background-color: #ccc;
+    margin-right: 10px;
+    cursor: pointer;
+  }
+  
